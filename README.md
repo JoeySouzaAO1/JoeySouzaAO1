@@ -1,6 +1,14 @@
 ## Hi there 👋
-
-<!--
+🌱 I’m currently learning introductions to front and back end development as well as cloud based architecture<br>
+💡 I plan on landing my first role by the end of 2025 to start supporting a development team<br>
+🤔 I’m looking for help with narrowing my focus, I'm most interest in:
+  <ul>
+  <li>Collaborating with others to help overcome road blocks</li>
+  <li>Discussing cloud based data storage</li>
+  <li>Experimenting new skills to refine overall knowledge</li>
+</ul><br>
+⚡ Fun fact: I was a long jumper for the UNC Chapel Hill Track and Field team 🏃🏻‍♂️
+ <!--
 **JoeySouzaAO1/JoeySouzaAO1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
