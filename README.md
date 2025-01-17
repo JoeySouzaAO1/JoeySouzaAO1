@@ -1,24 +1,44 @@
-## Hi there 👋
-🌱 I’m currently learning introductions to front and back end development as well as cloud based architecture<br>
-💡 I plan on landing my first role by the end of 2025 to start supporting a development team<br>
-🤔 I’m looking for help with narrowing my focus, I'm most interest in:
-  <ul>
-  <li>Collaborating with others to help overcome road blocks</li>
-  <li>Discussing cloud based data storage</li>
-  <li>Experimenting new skills to refine overall knowledge</li>
-</ul><br>
-⚡ Fun fact: I was a long jumper for the UNC Chapel Hill Track and Field team 🏃🏻‍♂️
- <!--
-**JoeySouzaAO1/JoeySouzaAO1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm [Your Name]
 
-Here are some ideas to get you started:
+## 🚀 Aspiring Full-Stack Developer | Former UNC Chapel Hill Athlete
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 My Goal
+To launch my career as a Full-Stack Developer by the end of 2025, bringing fresh perspectives and a strong learning mindset to a development team.
+
+### 🌱 Current Learning Journey
+- Front-end technologies (HTML, CSS, JavaScript, React)
+- Back-end development (Node.js, Express, databases)
+
+### 💡 What I'm Looking For
+- Opportunities to collaborate on open-source projects
+- Mentorship in full-stack development
+- Chances to apply my skills in real-world scenarios
+
+### 🤝 Let's Connect and Collaborate!
+I'm particularly interested in:
+- Overcoming development challenges through teamwork
+- Exploring cloud-based data storage solutions
+- Expanding my skill set through hands-on projects
+
+### 🛠️ Technologies & Tools
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### 📈 My GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+### 📫 How to Reach Me
+- LinkedIn: www.linkedin.com/in/joeysouza96
+- Email: souzajoey@gmail.com
+
+### ⚡ Fun Fact
+I was a long jumper for the UNC Chapel Hill Track and Field team 🏃🏻‍♂️ - Ask me how I apply the discipline and perseverance from athletics to my coding journey!
+
+---
+
+💼 Open to job opportunities and collaborations. Let's build something amazing together!
+
