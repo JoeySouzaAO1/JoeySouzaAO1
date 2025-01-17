@@ -20,6 +20,13 @@ I'm particularly interested in:
 - Exploring cloud-based data storage solutions
 - Expanding my skill set through hands-on projects
 
+### 📫 How to Reach Me
+- LinkedIn: www.linkedin.com/in/joeysouza96
+- Email: souzajoey@gmail.com
+
+### ⚡ Fun Fact
+I was a long jumper for the UNC Chapel Hill Track and Field team 🏃🏻‍♂️ - Ask me how I apply the discipline and perseverance from athletics to my coding journey!
+
 ### 🛠️ Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -29,14 +36,8 @@ I'm particularly interested in:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### 📈 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
-### 📫 How to Reach Me
-- LinkedIn: www.linkedin.com/in/joeysouza96
-- Email: souzajoey@gmail.com
-
-### ⚡ Fun Fact
-I was a long jumper for the UNC Chapel Hill Track and Field team 🏃🏻‍♂️ - Ask me how I apply the discipline and perseverance from athletics to my coding journey!
+![joeysouzaao1](https://github-readme-stats.vercel.app/api?username=joeysouzaao1&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joeysouzaao1)](https://git.io/streak-stats)
 
 ---
 
