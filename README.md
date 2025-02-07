@@ -3,7 +3,7 @@
 ## 🚀 Aspiring Full-Stack Developer | Former UNC Chapel Hill Athlete
 
 ### 🎯 My Goal
-To launch my career as a Full-Stack Developer by the end of 2025, bringing fresh perspectives and a strong learning mindset to a development team.
+To launch my career as a Full-Stack Developer, bringing fresh perspectives and a strong learning mindset to a development team.
 
 ### 🌱 Current Learning Journey
 - Front-end technologies (HTML, CSS, JavaScript, React)
