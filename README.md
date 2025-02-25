@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Joey
 
-## 🚀 Aspiring Full-Stack Developer | Former UNC Chapel Hill Athlete
+## 🚀 Aspiring Software Developer | Former UNC Chapel Hill Athlete
 
 ### 🎯 My Goal
 To launch my career as a Full-Stack Developer, bringing fresh perspectives and a strong learning mindset to a development team.
