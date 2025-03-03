@@ -15,6 +15,11 @@ Here are some of my live projects that showcase my skills and creativity:
    🔗 [Live Demo](https://joeysouzaao1.github.io/QuickFitApp/)  
    📂 [GitHub Repository](https://github.com/JoeySouzaAO1/QuickFitApp)
 
+3. **LuckyShrub**  
+   A simple demo page showcasing HTML and CSS.  
+   🔗 [Live Demo](https://joeysouzaao1.github.io/LuckyShrub/)  
+   📂 [GitHub Repository](https://github.com/JoeySouzaAO1/LuckyShrub)
+
 *More projects coming soon!*
 
 ### 🎯 My Goal
