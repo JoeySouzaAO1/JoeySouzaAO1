@@ -10,6 +10,11 @@ Here are some of my live projects that showcase my skills and creativity:
    🔗 [Live Demo](https://joeysouzaao1.github.io/Calculator/)  
    📂 [GitHub Repository](https://github.com/JoeySouzaAO1/Calculator)  
 
+2. **QuickFit App**  
+   A fitness application for quick and effective workouts. This is a work in progress!   
+   🔗 [Live Demo](https://joeysouzaao1.github.io/QuickFitApp/)  
+   📂 [GitHub Repository](https://github.com/JoeySouzaAO1/QuickFitApp)
+
 *More projects coming soon!*
 
 ### 🎯 My Goal
