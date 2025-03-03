@@ -14,6 +14,16 @@ To launch my career as a Full-Stack Developer, bringing fresh perspectives and a
 - Mentorship in full-stack development
 - Chances to apply my skills in real-world scenarios
 
+### 🌟 Live Projects
+Here are some of my live projects that showcase my skills and creativity:
+
+1. **Calculator App**  
+   A fully functional calculator built with React.  
+   🔗 [Live Demo](https://joeysouzaao1.github.io/Calculator/)  
+   📂 [GitHub Repository](https://github.com/JoeySouzaAO1/Calculator)  
+
+*More projects coming soon!*
+
 ### 🤝 Let's Connect and Collaborate!
 I'm particularly interested in:
 - Overcoming development challenges through teamwork
@@ -21,7 +31,7 @@ I'm particularly interested in:
 - Expanding my skill set through hands-on projects
 
 ### 📫 How to Reach Me
-- LinkedIn: www.linkedin.com/in/joeysouza96
+- LinkedIn: [www.linkedin.com/in/joeysouza96](https://www.linkedin.com/in/joeysouza96)
 - Email: souzajoey@gmail.com
 
 ### ⚡ Fun Fact
@@ -42,4 +52,5 @@ I was a long jumper for the UNC Chapel Hill Track and Field team 🏃🏻‍♂�
 ---
 
 💼 Open to job opportunities and collaborations. Let's build something amazing together!
+
 
