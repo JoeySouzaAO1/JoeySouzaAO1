@@ -2,6 +2,16 @@
 
 ## 🚀 Aspiring Software Developer | Former UNC Chapel Hill Athlete
 
+### 🌟 Live Projects
+Here are some of my live projects that showcase my skills and creativity:
+
+1. **Calculator App**  
+   A fully functional calculator built with React.  
+   🔗 [Live Demo](https://joeysouzaao1.github.io/Calculator/)  
+   📂 [GitHub Repository](https://github.com/JoeySouzaAO1/Calculator)  
+
+*More projects coming soon!*
+
 ### 🎯 My Goal
 To launch my career as a Full-Stack Developer, bringing fresh perspectives and a strong learning mindset to a development team.
 
@@ -13,16 +23,6 @@ To launch my career as a Full-Stack Developer, bringing fresh perspectives and a
 - Opportunities to collaborate on open-source projects
 - Mentorship in full-stack development
 - Chances to apply my skills in real-world scenarios
-
-### 🌟 Live Projects
-Here are some of my live projects that showcase my skills and creativity:
-
-1. **Calculator App**  
-   A fully functional calculator built with React.  
-   🔗 [Live Demo](https://joeysouzaao1.github.io/Calculator/)  
-   📂 [GitHub Repository](https://github.com/JoeySouzaAO1/Calculator)  
-
-*More projects coming soon!*
 
 ### 🤝 Let's Connect and Collaborate!
 I'm particularly interested in:
