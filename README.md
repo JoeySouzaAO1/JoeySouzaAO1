@@ -17,8 +17,12 @@ Here are some of my live projects that showcase my skills and creativity:
 
 3. **LuckyShrub**  
    A simple demo page showcasing HTML and CSS.  
-   🔗 [Live Demo](https://joeysouzaao1.github.io/LuckyShrub/)  
+   🔗 [Live Demo](https://joeysouzaao1.github.io/LuckyShrub/)
    📂 [GitHub Repository](https://github.com/JoeySouzaAO1/LuckyShrub)
+
+4. **Rx Management Backend**
+A Java-based REST API for managing pharmaceutical drug information with CRUD operations and bulk processing capabilities.
+📂 [GitHub Repository](https://github.com/JoeySouzaAO1/Rx-Managment-Backend)
 
 *More projects coming soon!*
 
