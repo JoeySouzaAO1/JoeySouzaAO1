@@ -15,14 +15,14 @@ Here are some of my live projects that showcase my skills and creativity:
    🔗 [Live Demo](https://joeysouzaao1.github.io/QuickFitApp/)  
    📂 [GitHub Repository](https://github.com/JoeySouzaAO1/QuickFitApp)
 
-3. **LuckyShrub**  
-   A simple demo page showcasing HTML and CSS.  
-   🔗 [Live Demo](https://joeysouzaao1.github.io/LuckyShrub/)
-   📂 [GitHub Repository](https://github.com/JoeySouzaAO1/LuckyShrub)
+3. **Rx Management Backend**<br>
+   A Java-based REST API for managing pharmaceutical drug information with CRUD operations and bulk processing capabilities.<br>
+   📂 [GitHub Repository](https://github.com/JoeySouzaAO1/Rx-Managment-Backend)
 
-4. **Rx Management Backend**
-A Java-based REST API for managing pharmaceutical drug information with CRUD operations and bulk processing capabilities.
-📂 [GitHub Repository](https://github.com/JoeySouzaAO1/Rx-Managment-Backend)
+4. **LuckyShrub**  
+   A simple demo page showcasing HTML and CSS.  
+   🔗 [Live Demo](https://joeysouzaao1.github.io/LuckyShrub/) <br>
+   📂 [GitHub Repository](https://github.com/JoeySouzaAO1/LuckyShrub)
 
 *More projects coming soon!*
 
