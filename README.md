@@ -8,7 +8,7 @@ Here are some of my live projects that showcase my skills and creativity:
 1. **RealWeb**  
    A full stack realestate branding website  
    🔗 [Live Website](https://realtorweb.vercel.app/)  
-   📂 [GitHub Repository](https://github.com/JoeySouzaAO1/Realweb)
+   📂 [GitHub Repository](https://github.com/JoeySouzaAO1/Realtorweb)
 
 2. **Calculator App**  
    A fully functional calculator built with React.  
